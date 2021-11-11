@@ -33,14 +33,11 @@ html {
     float: right;
 }
 
-<<<<<<< HEAD
 .copertina-jumbo {
     background-image: url("../img/jumbo-bg.png");
     background-size: cover;
 }
-=======
 .col-12 {
     background-image: url("../img/jumbo-bg.png");
     background-size: cover;
 }
->>>>>>> 1213fcd43d0c4f45059b8603c6b78139497b027c
