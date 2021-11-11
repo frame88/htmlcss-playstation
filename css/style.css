@@ -13,7 +13,7 @@ html {
 .hamburger {
     width: 100%;
     height: auto;
-    background: rgb(226, 226, 199);
+    background: rgb(255, 255, 255);
 }
 
 .fa-bars {
@@ -21,5 +21,10 @@ html {
 }
 
 .jumbotron-title, .jumbotron-subtitle {
+    color: white;
+}
+
+.button-buy {
+    background: red;
     color: white;
 }
