@@ -33,3 +33,7 @@ html {
     float: right;
 }
 
+.col-12 {
+    background-image: url("../img/jumbo-bg.png");
+    background-size: cover;
+}
