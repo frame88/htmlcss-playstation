@@ -1,13 +1,39 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 .container {
     background-color: black;
 }
 
-.fab  {
+.fa-playstation  {
     color: blue;
 }
 
 .hamburger {
     width: 100%;
     height: auto;
+    background: rgb(255, 255, 255);
+}
+
+.fa-bars {
+    color: gray;
+}
+
+.jumbotron-title, .jumbotron-subtitle {
+    color: white;
+}
+
+.button-buy {
     background: red;
+    color: white;
+}
+
+.latodestro {
+    float: right;
+}
+
+.copertina-jumbo {
+    background-image: url("../img/jumbo-bg.png");
+    background-size: cover;
 }
