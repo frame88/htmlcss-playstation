@@ -10,15 +10,20 @@ html {
 .fa-playstation  {
     color: rgb(0, 162, 255);
 }
-
+/*
 .hamburger {
     width: 100%;
     height: auto;
     background: rgb(255, 255, 255);
 }
-
+*/
 .fa-bars {
     color: gray;
+}
+
+.accedi {
+    background: rgb(32, 32, 32);
+    color: white;
 }
 
 .copertina-jumbo {
