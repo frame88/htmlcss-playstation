@@ -27,7 +27,7 @@ html {
     color: white;
 }
 
-.copertina-jumbo {
+.jumbotron {
     background-image: url("../img/jumbo-bg.png");
     background-size: cover;
     background-position: center;
@@ -40,9 +40,5 @@ html {
 .button-buy {
     background: red;
     color: white;
-}
-
-.latodestro {
-    float: right;
 }
 
