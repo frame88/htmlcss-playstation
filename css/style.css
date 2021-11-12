@@ -2,8 +2,9 @@ html {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.container {
-    background-color: black;
+
+.container-logo {
+     background-color: black;
 }
 
 .fa-playstation  {
@@ -20,6 +21,13 @@ html {
     color: gray;
 }
 
+.copertina-jumbo {
+    background-image: url("../img/jumbo-bg.png");
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+}
+
 .jumbotron-title, .jumbotron-subtitle {
     color: white;
 }
@@ -33,11 +41,6 @@ html {
     float: right;
 }
 
-.copertina-jumbo {
-    background-image: url("../img/jumbo-bg.png");
-    background-size: cover;
-}
-.col-12 {
-    background-image: url("../img/jumbo-bg.png");
-    background-size: cover;
+.catalogo {
+    background-color: white;
 }
