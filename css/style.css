@@ -22,6 +22,9 @@ html {
     color: gray;
 }
 
+.jumbotron {
+    height: 500px;
+}
 .accedi {
     background: rgb(32, 32, 32);
     color: white;
