@@ -25,10 +25,6 @@ html {
 .jumbotron {
     height: 500px;
 }
-.accedi {
-    background: rgb(32, 32, 32);
-    color: white;
-}
 
 .jumbotron {
     background-image: url("../img/jumbo-bg.png");
@@ -36,11 +32,5 @@ html {
     background-position: center;
 }
 
-.jumbotron-title, .jumbotron-subtitle {
-    color: white;
-}
 
-.button-buy {
-    color: white;
-}
 
