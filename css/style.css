@@ -30,6 +30,19 @@ html {
     background-image: url("../img/jumbo-bg.png");
     background-size: cover;
     background-position: center;
+    position: relative;
+}
+
+.copertina-jumbo {
+    position: absolute;
+    margin-left: 0;
+    margin-bottom: 0;
+}
+
+.itakes {
+    background-image: url("../img/it-takes-two-hero-banner-desktop.jpg");
+    background-size: cover;
+    background-position: center;
 }
 
 
