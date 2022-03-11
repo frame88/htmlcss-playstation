@@ -30,6 +30,7 @@ html {
     background-image: url("../img/jumbo-bg.png");
     background-size: cover;
     background-position: center;
+    background-repeat: no-repeat;
 }
 
 
@@ -47,9 +48,31 @@ html {
     background-color: rgb(12, 17, 80);
 }
 
+.social {
+    border-radius: 15px;
+}
+
 footer {
     background-color: rgb(20, 57, 138);
 }
 
+.pulsante-psplus {
+    width: 55%;
+}
 
+
+
+/*      hover       */
+.acca:hover {
+    border-bottom: 4px solid blue;
+    margin-bottom: +4px;
+}
+
+.acca:hover img {
+    opacity: 0.5;
+}
+
+.transp:hover{
+    opacity: 0.8;
+}
 
